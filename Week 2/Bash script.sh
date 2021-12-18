@@ -69,7 +69,7 @@ do
             # Remove old file
             rm "$picture"
         else
-            echo "$picture is niet goed"
+            echo "$picture is not valid"
         fi
     fi
 
